@@ -12,6 +12,7 @@
 ## 藕酥汉化组
 
 osu! 中文翻译组织
+
 [![](https://discordapp.com/api/guilds/281826842657161216/widget.png?style=shield)](https://discord.gg/xnWpxzZ)
 
 ## 想贡献翻译？
