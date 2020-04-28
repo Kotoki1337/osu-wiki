@@ -23,7 +23,7 @@ osu! 中文翻译组织
 
 如果您有兴趣帮助该项目！请查看 [贡献文档](CONTRIBUTING.md) (英文)。
 
-## 过期文章和缺少的翻译的文章列表
+## 过期文章和缺少翻译的文章列表
 
 osu!wiki 主项目 [issues#2486](https://github.com/ppy/osu-wiki/issues/2486)
 
