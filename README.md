@@ -3,6 +3,10 @@
 本项目由个人(及其朋友)发起并尝试维护，并不隶属于任何组织。
 目的在于帮助 outdated 文章恢复至最新内容。
 
+## 这个 Readme 有什么用？
+
+哦我只是把我自己的仓库整的好看一点而已（摊手）。
+
 ## osu!wiki
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7370d190691640bd8926b556bab83b63)](https://app.codacy.com/gh/ppy/osu-wiki?utm_source=github.com&utm_medium=referral&utm_content=ppy/osu-wiki&utm_campaign=Badge_Grade_Dashboard)
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
