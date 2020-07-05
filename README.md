@@ -26,6 +26,6 @@ osu! 中文翻译组织
 
 osu!wiki 主项目 [issues#2486](https://github.com/ppy/osu-wiki/issues/2486)
 
-中文 [过期及缺少翻译的列表](https://clayton.cc/outdated-osu-wiki/zh.txt) (By cl8n)
+中文 [过期及缺少翻译的列表](https://clayton.cc/outdated-osu-wiki/zh.txt) (By [cl8n](https://github.com/cl8n))
 
 其他语言可以在 https://clayton.cc/outdated-osu-wiki/XX.txt 中找到，其中``XX``是语言代码(如zh-tw)。
