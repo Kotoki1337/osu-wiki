@@ -8,7 +8,6 @@
 哦我只是把我自己的仓库整的好看一点而已（摊手）。
 
 ## osu!wiki
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7370d190691640bd8926b556bab83b63)](https://app.codacy.com/gh/ppy/osu-wiki?utm_source=github.com&utm_medium=referral&utm_content=ppy/osu-wiki&utm_campaign=Badge_Grade_Dashboard)
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
 点此前往 [维基主页](https://osu.ppy.sh/help/wiki/Main_Page)。
