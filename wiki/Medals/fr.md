@@ -1,3 +1,8 @@
+---
+outdated_since: befb4e6b64f5c1f1616b60a93cb5883df9234324
+outdated_translation: true
+---
+
 # Médailles
 
 Les **médailles**, précédemment connues sous le nom de *réalisations*, sont des badges sur le profil d'un utilisateur qui indiquent certains objectifs qui ont été atteints par l'utilisateur. Actuellement, il y a **314** médailles à débloquer dans huit catégories différentes au total : [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), et [Beatmap Challenge Packs](#beatmap-challenge-packs).
@@ -12,7 +17,7 @@ Il convient toutefois de noter que le contenu de tous les packs Video Game Packs
 
 ## Skill
 
-Les médailles **Skill** sont des médailles attribuées à la suite de divers accomplissements basés sur les compétences, que ce soit en atteignant certains seuils de [combo](/wiki/Beatmapping/Combo), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Gameplay/Full_combo) sur n'importe quelle beatmap [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [approuvée](/wiki/Beatmap/Category#approuvée) dans certaines fourchettes de [star rating](/wiki/Beatmap/Star_rating).
+Les médailles **Skill** sont des médailles attribuées à la suite de divers accomplissements basés sur les compétences, que ce soit en atteignant certains seuils de [combo](/wiki/Beatmapping/Combo), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Gameplay/Full_combo) sur n'importe quelle beatmap [qualifiée](/wiki/Beatmap/Category#qualified), [classée](/wiki/Beatmap/Category#ranked), ou [approuvée](/wiki/Beatmap/Category#approved) dans certaines fourchettes de [star rating](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
@@ -22,7 +27,7 @@ Les médailles **Dedication** sont des médailles attribuées lorsque vous attei
 
 *Voir également : [Modificateur de jeu](/wiki/Gameplay/Game_modifier)*
 
-Les médailles **Mod Introduction** sont des médailles attribuées après avoir réussi une beatmap [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée) ou [approuvée](/wiki/Beatmap/Category#approuvée) avec le [modificateur de jeu (mod)](/wiki/Gameplay/Game_modifier) correspondant. Ces médailles sont destinées à encourager les nouveaux joueurs à essayer chaque mod et à explorer ce que le jeu offre. Notez cependant que si les joueurs jouent avec plusieurs modificateurs de jeu à la fois, ils ne **peuvent pas gagner** les médailles des modificateurs de jeu pour cette partie.
+Les médailles **Mod Introduction** sont des médailles attribuées après avoir réussi une beatmap [qualifiée](/wiki/Beatmap/Category#qualified), [classée](/wiki/Beatmap/Category#ranked) ou [approuvée](/wiki/Beatmap/Category#approved) avec le [modificateur de jeu (mod)](/wiki/Gameplay/Game_modifier) correspondant. Ces médailles sont destinées à encourager les nouveaux joueurs à essayer chaque mod et à explorer ce que le jeu offre. Notez cependant que si les joueurs jouent avec plusieurs modificateurs de jeu à la fois, ils ne **peuvent pas gagner** les médailles des modificateurs de jeu pour cette partie.
 
 Toutes les médailles Mod Introduction peuvent être débloquées dans n'importe quel [mode de jeu](/wiki/Game_mode), sauf indication contraire.
 

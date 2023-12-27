@@ -1,4 +1,6 @@
 ---
+outdated_since: 6fa6a6ad42738cb1eb8b72d452c536ee3b3ecbe5
+outdated_translation: true
 tags:
   - find beatmaps
   - filter beatmaps
@@ -59,6 +61,7 @@ tags:
 | `artist` | Название исполнителя |
 | `featured_artist` | Идентификатор исполнителя из программы [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Ник автора сложности |
+| `difficulty` | Название сложности |
 | `ar` | [Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle size](/wiki/Beatmap/Circle_size) |
 | `od` | [Overall difficulty](/wiki/Beatmap/Overall_difficulty) |
