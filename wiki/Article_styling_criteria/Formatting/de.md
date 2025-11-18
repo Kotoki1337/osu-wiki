@@ -1,6 +1,5 @@
 ---
-outdated_since: 16a9623dd2a25dc38ae8879ad2c924f8b7c74a3e
-outdated_translation: true
+no_native_review: true
 ---
 
 # Formatierung
@@ -95,6 +94,8 @@ Wenn Übersetzungen als veraltet gekennzeichnet werden, müssen sie ebenfalls da
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 ```
 
+Diese Tags werden automatisch hinzugefügt, nachdem eine Änderung übernommen wird. Übersetzungen, die diese Änderung nicht benötigen, können optional [übersprungen werden](/wiki/osu!_wiki/Maintenance#nicht-mehr-aktuelle-übersetzungen).
+
 ### Artikel mit Tags versehen
 
 Tags helfen der Suchmaschine der Webseite relevantere Artikel anzuzeigen. Die Liste an Tags sollte in derselben Sprache wie der Artikel geschrieben sein und zusätzlich die ursprünglichen Tags beinhalten. Außerdem sollten sie nach Möglichkeit immer Kleinschreibung verwenden.
@@ -111,12 +112,18 @@ tags:
 
 ### Übersetzungen ohne Überprüfungen
 
-*Anmerkung: Wiki-Verwalter werden diese Markierung vor dem Mergen setzen, falls notwendig.*
+*Anmerkung: Wiki-Verwalter werden dieses Tag vor dem Mergen setzen, falls notwendig.*
 
-Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieses Tag muss folgendermaßen geschrieben werden:
+Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss das Tag `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss:
 
 ```yaml
 no_native_review: true
+```
+
+Alternativ kann das Tag `no_native_review_since` verwendet werden, um anzugeben, bei welchem Commit die erste unüberprüfte Bearbeitung stattfand und wer seitdem an der Übersetzung beteiligt war:
+
+```yaml
+no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 ```
 
 ## Artikelbenennung

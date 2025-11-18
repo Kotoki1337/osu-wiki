@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0ea790250344a95c352ee0241b94ddc44a06c5b0
 ---
 
 # Concours
@@ -127,7 +129,7 @@ Le **Mapping With Rewards** est un concours de mapping où les mappeurs particip
 | [#3.2 (osu!taiko)](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [\*namirin - closing eyes](https://osu.ppy.sh/beatmaps/artists/18) | ![osu!taiko][osu!taiko] | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 | [#3.3](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmaps/artists/15) | ![osu!][osu!] | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=MY }:: [HootOwlStar](https://osu.ppy.sh/users/4341302) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 
-### [A Labour of Love](A_Labour_of_Love_Contest)
+### [A Labour of Love](Mapping_Olympiad)
 
 **A Labour of Love** est un concours en équipe couvrant de multiples disciplines artistiques où les équipes participantes sont chargées de remixer/réarranger une musique qui a été largement connue à travers la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard original/une vidéo d'arrière plan comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264), le concours s'inspire des [événements THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
 
@@ -234,6 +236,7 @@ Le **Skinning Contest** est un concours de skinning où les créateurs artistiqu
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) par ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) par ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) par ::{ flag=RU }:: [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 | [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) par ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) par ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) par ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 | [#3](/wiki/Contests/Skinning_Contest/3) | [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514) par ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [Ralsei Dark](https://osu.ppy.sh/community/forums/topics/1629393) par ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) par ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [#1](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results) |
+| [#4](/wiki/Contests/Skinning_Contest/4) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) par ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) par ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251) | [星塵 DIVIDE ÷ 8](https://osu.ppy.sh/community/forums/topics/1792739) par ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/community/forums/topics/1792739) | [#1](https://osu.ppy.sh/home/news/2023-08-10-skinning-contest-icons-of-an-era-results) |
 
 ### Skin of the Year
 
@@ -242,6 +245,7 @@ Le **Skin of the Year** est un concours de skinning annuel où la communauté ch
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2022)](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) | [If there was an endpoint.](https://osu.ppy.sh/community/forums/topics/1672096) par ::{ flag=PE }:: [- Koshiin -](https://osu.ppy.sh/users/19135423) | [Moonshine](https://osu.ppy.sh/community/forums/topics/1610388) par ::{ flag=MY }:: [moonstaar](https://osu.ppy.sh/users/27339355) | [Shiroko Swimsuit](https://osu.ppy.sh/community/forums/topics/1641543) par ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015) | [#1](https://osu.ppy.sh/home/news/2023-03-05-skin-of-the-year-2022-results) |
+| [#2 (2023)](https://osu.ppy.sh/home/news/2024-01-14-skin-of-the-year-2023) | [WhiteCat 3.0](https://osu.ppy.sh/community/forums/topics/1864774) par ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | [Windosu XP](https://osu.ppy.sh/community/forums/topics/1790353) par ::{ flag=US }:: [Miorine](https://osu.ppy.sh/users/12630408) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) par ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [#2](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) |
 
 ### [osu!trivium Quiz](osu!trivium_Quiz)
 

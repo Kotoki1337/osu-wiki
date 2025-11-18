@@ -100,7 +100,7 @@ Der Chat `#spanish` ist für alle, die Spanisch sprechen.
 Eigennamen müssen großgeschrieben werden. Im Folgenden ein Beispiel:
 
 ```markdown
-Dean Herbert (auch bekannt als peppy) erschuf osu! in 2007.
+Dean Herbert (auch bekannt als peppy) erschuf osu! im Jahr 2007.
 ```
 
 ### Markenzeichen
@@ -217,8 +217,8 @@ Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 
 Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen):
 
-- `NoMods`, `NoMod` oder `NM`
-- `FreeMods`, `FreeMod` oder `FM`
+- `No Mod` oder `NM`
+- `Free Mod` oder `FM`
 - `Tiebreaker`
 
 ### Übersetzungen für häufige Begriffe

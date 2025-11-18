@@ -1,3 +1,8 @@
+---
+outdated_since: 9e7171bcffbb05be58c6444cf46ea6ba11e1a59c
+outdated_translation: true
+---
+
 # Turnamen
 
 Laman ini dikhususkan untuk berbagai turnamen yang ada di osu!. Turnamen memiliki forumnya tersendiri yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
@@ -106,11 +111,13 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: Korea Selatan | ::{ flag=RU }:: Rusia | ::{ flag=US }:: Amerika Serikat |
+| 3 Digit World Cup | 2019-03-15 | 2019-05-26 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=RU }:: Rusia |
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: Amerika Serikat | ::{ flag=BR }:: Brazil | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Polandia | ::{ flag=US }:: Amerika Serikat |
 | 3 Digit World Cup 2022 | 2022-02-20 | 2022-05-08 | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: Tiongkok | ::{ flag=ID }:: Indonesia |
 | 3 Digit World Cup 2023 | 2023-02-17 | 2023-04-30 | ::{ flag=KR }:: Korea Selatan | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Amerika Serikat |
+| 3 Digit World Cup 2024 | 2023-12-25 | 2024-03-10 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=BR }:: Brazil |
+| [3 Digit World Cup 2025](3WC/2025) | 2024-12-28 | 2025-03-16 | ::{ flag=KR }:: Korea Selatan | ::{ flag=US }:: Amerika Serikat | ::{ flag=DE }:: Jerman |
 
 #### Aetherian's Summer Singles
 
@@ -125,18 +132,31 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Ascaveth Invitational Tournament 2022](AIT/2022) | 2022-09-03 | 2022-09-03 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [Ascaveth Invitational Tournament 2023](AIT/2023) | 2023-12-09 | 2023-12-09 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 
 #### Aus/NZ osu!standard Tournament
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| AUS/NZ osu!standard Tournament | 2014-06-20 | 2014-08-03 | ::{ flag=AU }:: [Tokichii](https://osu.ppy.sh/users/557197) | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837) |
+| Aus/NZ osu!standard Tournament | 2014-06-20 | 2014-08-03 | ::{ flag=AU }:: [Tokichii](https://osu.ppy.sh/users/557197) | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837) |
 | Aus/NZ osu!standard Tournament 2 | 2015-04-03 | 2015-05-18 | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=NZ }:: [buny](https://osu.ppy.sh/users/1488796) | ::{ flag=AU }:: [Rivastyx](https://osu.ppy.sh/users/2719307) |
 | Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ::{ flag=NZ }:: [yellowy246](https://osu.ppy.sh/users/3833980) | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [II Jelli II](https://osu.ppy.sh/users/5113781) |
 | Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Dumi](https://osu.ppy.sh/users/2271615) | ::{ flag=AU }:: [ithgyu](https://osu.ppy.sh/users/5113781) |
 | [Aus/NZ osu!standard Tournament 5 - Summer](ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 | [Aus/NZ osu!standard Tournament 5 - Winter](ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
 | [Aus/NZ osu!standard Tournament 6 - Summer](ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+| [Aus/NZ osu!standard Tournament 6 - Winter](ANZT/2019_Winter) | 2019-07-26 | 2019-09-22 | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102) |
+| [Aus/NZ osu!standard Tournament 7 - Summer](ANZT/2020_Summer) | 2020-01-31 | 2020-04-12 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| [Aus/NZ osu!standard Tournament 7 - Winter](ANZT/2020_Winter) | 2020-07-10 | 2020-08-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
+| [Aus/NZ osu!standard Tournament 8 - Summer](ANZT/2021_Summer) | 2021-01-22 | 2021-03-14 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| [Aus/NZ osu!standard Tournament 8 - Winter](ANZT/2021_Winter) | 2021-07-23 | 2021-09-12 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691) |
+| Aus/NZ osu!standard Tournament 9 - Summer | 2022-01-21 | 2022-03-06 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691) |
+| Aus/NZ osu!standard Tournament 9 - Winter | 2022-07-23 | 2022-09-18 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572) | ::{ flag=NZ }:: [Tedda](https://osu.ppy.sh/users/6906789) |
+| Aus/NZ osu!standard Tournament 10 - Summer | 2023-01-16 | 2023-03-12 | ::{ flag=AU }:: [sweetheart](https://osu.ppy.sh/users/12736534) | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) |
+| Aus/NZ osu!standard Tournament 10 - Winter | 2023-07-23 | 2023-09-18 | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) |
+| Aus/NZ osu!standard Tournament 11 - Summer | 2024-01-27 | 2024-03-11 | santa deniers | jelqmaxxers | ASecretDozer |
+| Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
+| Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
 #### BubblyQT
 
@@ -254,6 +274,12 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | osu! European Tournament 3 | 2019-02-08 | 2020-03-23 | Woopak :CRAB: | Fondermanp2p | Käptn Mein Käptn |
 | [osu! European Tournament 2021](o!ET/2021) | 2021-05-15 | 2021-07-11 | opa pizdec | The Cow Fields | Team Papayapa |
 
+#### osu! FumoFumo Cup
+
+| Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
+
 #### osu! Indonesia Tournament
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
@@ -271,6 +297,8 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | osu! Romania Tournament 2018 (Low Bracket) | 2018-04-17 | 2018-08-18 | ::{ flag=RO }:: [FDunderlineGod](https://osu.ppy.sh/users/4854275) | ::{ flag=RO }:: [CataDesigns](https://osu.ppy.sh/users/10569381) | ::{ flag=RO }:: [Robi](https://osu.ppy.sh/users/9907606) |
 | osu! Romania Tournament 2019 | 2019-05-24 | 2019-09-14 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
 | [osu! Romania Summer Tournament 2021](o!RT/2021) | 2021-05-24 | 2021-09-12 | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
+| [Romanian osu! Cup 2022](o!RT/2022) | 2022-06-03 | 2022-09-04 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
+| [osu! Romania Summer Tournament 2023](o!RT/2023) | 2023-06-01 | 2023-08-27 | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -627,6 +655,8 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Catch the Beat Indonesia Cup 2019 | 2019-08-18 | 2019-10-13 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
 | [Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) |
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-08-01 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
+| [Catch the Beat Indonesia Cup 2022](CIC/2022) | 2022-03-04 | 2022-04-10 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
 
 #### Indonesia Convert Cup
 
@@ -653,6 +683,12 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 2019-09-21 | 2019-11-03 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794) | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+
+#### osu!catch Convert Cup Open
+
+| Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!catch Convert Cup Open 2023](o!cCO/2023) | 2023-11-20 | 2024-01-22 | Korean PC (::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | converts ec (::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799), ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)) | CTB RAIMON (::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481)) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 

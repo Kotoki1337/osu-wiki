@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 66ff199c9f7ba691f16fdfd19d07435173a1db3b
 ---
 
 # Noms des difficultés
@@ -144,7 +146,8 @@ Les mapsets des musiques issues d'autres jeux de rythme empruntent souvent le sy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Past
 - ![](/wiki/shared/diff/hard-o.png?20211215) Present
 - ![](/wiki/shared/diff/insane-o.png?20211215) Future
-- ![](/wiki/shared/diff/expert-o.png?20211215) Beyond
+- ![](/wiki/shared/diff/expert-o.png?20211215) Eternal
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Beyond
 
 ### Lanota
 

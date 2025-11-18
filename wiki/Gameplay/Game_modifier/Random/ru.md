@@ -3,17 +3,18 @@ stub: true
 tags:
   - random
   - RD
-  - рандом
   - mod
   - game modifier
+  - рандом
   - мод
   - игровой модификатор
 ---
 
-# Random (мод)
+# Random
 
 ![Значок мода RD](/wiki/shared/mods/RD.png "Значок мода Random (RD)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Random (lazer)](/wiki/Gameplay/Game_modifier/Random_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

@@ -1,25 +1,16 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 2198dcd505d19c40d33a0bfa764977d3c42d067c
 ---
 
 # Différences de gameplay dans osu!(lazer)
 
-*Pour une liste comparative des fonctionnalités de lazer et de stable, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
+*Pour une liste comparative des fonctionnalités de lazer et de stable, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#comparaison-des-caractéristiques)*
 
 Cette page présente les différences affectant le gameplay dans osu!(lazer).
 
 ## Général
-
-### La lecture de la musique s'accélère et se ralentit lors de la mise en pause et de la reprise de la lecture
-
-Il est ainsi plus difficile de reprendre le jeu après une pause au milieu d'une partie active, ce qui empêche dans une certaine mesure les abus de pause.
-
-|  |  |
-| :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
 
 ### Le mod Easy n'interrompt plus le gameplay lors de la récupération d'un échec
 
@@ -27,41 +18,39 @@ Au lieu d'interrompre le jeu pendant le remplissage de la barre de santé, la sa
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
-### Le système de santé est différent
+### Tous les modes de jeu, à l'exception d'osu!catch, utilisent le même système de notation
 
-Cela est principalement dû aux changements apportés au système de jugement. Par exemple, les jugements Geki et Katu n'existent pas dans lazer, ce qui a affecté la santé sur stable.
+Dans stable, les exigences de précision (et de jugement) pour chaque [node](/wiki/Gameplay/Grade) sont les suivantes :
 
-|  |  |
-| :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Note | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥90% (≤1% MEHs/50s, aucun miss) | ≥98% | ≥95% |
+| A | ≥80% (aucun miss) ou ≥90% | ≥94% | ≥90% |
+| B | ≥70% (aucun miss) ou ≥80% | ≥90% | ≥80% |
+| C | ≥60% | ≥85% | ≥70% |
 
-### Tous les modes de jeu utilisent le même système de notation
+Pendant ce temps, osu!(lazer) a maintenant ces seuils de précision :
 
-Tous les modes de jeu utilisent un système de notation similaire à celui de osu!mania sur stable (voir [note](/wiki/Gameplay/Grade)).
-
-| Note | Condition |
-| :-: | :-- |
-| SS | 100% de précision |
-| S | Précision d'au moins 95% |
-| A | Précision d'au moins 90% |
-| B | Précision d'au moins 80% |
-| C | Précision d'au moins 70% |
-| D | Tout autre chose |
+| Note | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | ≥95% (pas de miss) | ≥98% | ≥95% |
+| A | ≥90% | ≥94% | ≥90% |
+| B | ≥80% | ≥90% | ≥80% |
+| C | ≥70% | ≥85% | ≥70% |
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les calculs des bords de la hit window ne correspondent pas aux calculs de stable
 
@@ -75,10 +64,10 @@ Lorsqu'un hit arrive juste au bord de la hit window, un jugement différent peut
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Différences de notation
 
@@ -90,10 +79,10 @@ Il y a également des différences dans le score de chaque objet et de chaque ju
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les déclencheurs des storyboards ne sont pas mis en œuvre
 
@@ -111,10 +100,10 @@ Il est désormais plus facile de se remettre d'une erreur dans les patterns dens
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Oui][true] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les cercles de la tête du slider exigent de la précision lors de la frappe
 
@@ -124,36 +113,55 @@ Jusqu'à lazer, les sliders ne nécessitaient que la précision d'un jugement 50
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Oui][true] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
-### Les sliders ends ne contribuent pas au combo et ne provoquent pas de miss
+### Les têtes de sliders sont plus indulgentes
 
-Les sliders ends avaient la particularité de ne pas rompre le combo (et de ne pas causer de jugement MISS) si elles étaient manquées. Cela signifiait qu'un jeu S, qui, entre autres choses, ne nécessite aucun jugement MISS, ressemblerait à un combo complet même si certains sliders étaient manqués. Il s'en est suivi divers débats sur la question de savoir si un tel jeu devait être appelé "FC".
+Lorsque l'on clique tôt sur un slider, le cercle de suivi démarre désormais immédiatement dans un état de suivi, même si le curseur quitte la slider ball avant que le slider ne démarre.
 
-Désormais, les sliders ends n'affecteront que le score et la précision, mais n'auront aucun effet sur le combo. Cela signifie qu'un score sans faute signifie toujours un combo complet.
+![](img/slider-early-leniency.gif)
+
+En outre, lorsque vous cliquez tardivement sur un slider, les ticks ou les répétitions qui se sont déjà écoulés seront considérés comme terminés.
+
+![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg)
+
+Voir [cette vidéo YouTube](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s) pour une explication détaillée.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
+
+### L'indulgence à l'égard du slider end est désormais plus grande
+
+Sur les sliders très rapides, il suffit désormais de suivre quelque part dans les 36 dernières ms, plutôt qu'au point situé 36 ms avant la fin du slider.
+
+Voir [cette vidéo YouTube](https://www.youtube.com/watch?v=SlWKKA-ltZY) pour une explication détaillée.
+
+|  |  |
+| :-- | :-: |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### L'absence d'un tête de slider entraîne un miss
 
 Rater la tête d'un slider (soit en ne le frappant pas, soit en le frappant pendant sa fenêtre de miss) brisait auparavant le combo mais n'entraînait pas de jugement MISS, et un jugement pouvait toujours être reçu pour le slider manqué en complétant le reste de celui-ci. Cela permettait aux joueurs d'obtenir des scores avec un combo maximum faible tout en n'ayant techniquement pas de ratés.
 
-Sur lazer, le fait de ne pas toucher la tête du slider donne un jugement MISS pour l'ensemble du slider. Après avoir manqué la tête d'un slider, le combo, le score et la précision peuvent encore être obtenus à partir des ticks et des répétitions du slider, alors que seuls le score et la précision peuvent encore être obtenus à partir du slider end.
+Dans lazer, le fait de ne pas toucher la slider head donne un jugement MISS pour l'ensemble du slider. Après avoir manqué la slider head, le combo, le score et la précision peuvent encore être obtenus grâce aux ticks, repeats et slider ends.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les sliders ends ne provoquent pas de hitsounds lorsqu'ils ne sont pas frappés
 
@@ -161,23 +169,31 @@ Dans la version stable, les sliders ends jouaient leurs hitsounds même s'ils é
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Oui |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Annulable à l'aide du mod Classic | ![Oui][true] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### La limite de vitesse de rotation des spinners de 477 tours/minute a été supprimée
 
-Au lieu d'un plafond de vitesse, les spinners ont désormais un plafond de score déterminé par le nombre total de rotations qui peuvent être réalisées en faisant tourner l'ensemble du spinner à 477 tours par minute.
+Au lieu d'un plafond de vitesse, les spinners ont désormais un plafond de score déterminé par le nombre total de rotations qui peuvent être réalisées en faisant tourner l'ensemble du spinner à une certaine vitesse de rotation en fonction de l'OD.
 
 Cela signifie que le score maximum peut être obtenu rapidement en spinnant plus vite, sans que plus aucun point ne soit attribué par la suite pour le reste de la durée du spinner.
 
+Le RPM nécessaire pour obtenir le score maximum est le suivant :
+
+| OD | RPM |
+| --: | --: |
+| 0 | 250 |
+| 5 | 380 |
+| 10 | 430 |
+
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les sliders glitchés de type Aspire ne sont pas pris en charge
 
@@ -189,10 +205,10 @@ Une discussion et une réflexion plus approfondies seront nécessaires pour dét
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ## osu!taiko
 
@@ -202,10 +218,10 @@ Certaines maps gimmick utilisent des notes qui se superposent aux swells.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Les drumrolls n'empêchent pas le mashing
 
@@ -213,10 +229,10 @@ Dans la version stable, les drumrolls ne pouvaient pas être frappés trop rapid
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### Le centre de Flashlight est aligné avec le récepteur d'impact
 
@@ -224,10 +240,10 @@ Dans stable, le centre de Flashlight est légèrement décalé vers le bas et ve
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ## osu!catch
 
@@ -237,10 +253,10 @@ Cela peut conduire à des jugements inexacts lors des replays et à une augmenta
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### La génération de juice stream peut être différente dans certains cas
 
@@ -248,10 +264,10 @@ Cela peut conduire à des jugements inexacts lors des replays.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ## osu!mania
 
@@ -261,23 +277,23 @@ Son fonctionnement est similaire à celui de ScoreV2 dans stable.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
-### Les ticks de la hold note donnent le score et sont responsables des ruptures de combo
+### Les ticks de la hold note sont supprimées
 
-Dans la version stable, le fait de relâcher pendant un corps de hold note cassait immédiatement le combo, mais maintenant il ne se brise que si l'on manque un tick de hold note.
+Dans la version stable, les hold notes donnent un combo toutes les 100 ms, alors que dans la version lazer, les "ticks de la hold note" donnent un combo tous les tick.
 
-Cela permet le cheesing (c'est-à-dire la "manipulation") en autorisant le "wrist-jacking", alors qu'un "finger-jack" avec un autre doigt tenu serait nécessaire dans le cas contraire.
+Aucun de ces éléments n'existe dans lazer, ce qui signifie que les hold notes ne donnent des combos qu'au début et à la fin. Cependant, tout comme dans stable, les combos se brisent immédiatement lorsqu'on lâche les sliders.
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les vitesses de défilement extrêmes sont limitées
 
@@ -285,10 +301,10 @@ Certaines beatmaps avec des gimmicks de SV comme les téléportations ou les arr
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
 
 ### La fenêtre de jugement PERFECT s'échelonne en fonction de l'OD
 
@@ -296,10 +312,10 @@ Il s'agissait auparavant d'une valeur constante de ±16 ms, quelle que soit la d
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non? |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Les beatmaps convertis n'ont plus de fenêtres d'impact différentes
 
@@ -307,10 +323,10 @@ Dans stable, les beatmaps converties du mode de jeu osu! en osu!mania avaient [d
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Oui |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Oui |
-| Nécessite un examen plus approfondi | Non? |
+| Rupture de la rétrocompatibilité | ![Oui][true] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Oui][true] |
+| Nécessite un examen plus approfondi | ![Non][false] |
 
 ### Le mod Flashlight n'a pas de dégradé
 
@@ -318,7 +334,10 @@ Dans stable, les beatmaps converties du mode de jeu osu! en osu!mania avaient [d
 
 |  |  |
 | :-- | :-: |
-| Rupture de la rétrocompatibilité | Non |
-| Prise en charge de l'inversion des mods classiques | Non |
-| Modifié intentionnellement | Non |
-| Nécessite un examen plus approfondi | Oui |
+| Rupture de la rétrocompatibilité | ![Non][false] |
+| Annulable à l'aide du mod Classic | ![Non][false] |
+| Modifié intentionnellement | ![Non][false] |
+| Nécessite un examen plus approfondi | ![Oui][true] |
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

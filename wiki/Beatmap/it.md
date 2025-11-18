@@ -76,7 +76,7 @@ Le beatmap che sono state classificate nello stesso mese o che condividono lo st
 Esistono anche fonti secondarie di beatmap, che non sono **né controllate né gestite dal team di osu!**. Tuttavia, sono disponibili sui forum e apprezzate dalla comunità. Tali fonti includono:
 
 - mirror di beatmap di terze parti ospitati su una piattaforma;
-- pacchetti e compilation creati dai giocatori e condivisi tramite [reti p2p](https://en.wikipedia.org/wiki/Peer-to-peer), come BitTorrent.
+- pacchetti e compilation creati dai giocatori e condivisi tramite [reti p2p](https://it.wikipedia.org/wiki/Peer-to-peer), come BitTorrent.
 
 ## Beatmap e community
 
@@ -89,7 +89,7 @@ I giocatori di osu! in tutte le modalità di gioco usano le beatmap per [salire 
 - Classifica specifica per paese, composta da giocatori con la stessa bandiera;
 - Classifica amici che mostra la posizione di un giocatore sulla mappa rispetto ai suoi amici.
 
-I primi 500 punteggi a ogni difficoltà di una mappa di battuta forniscono [replay](/wiki/Gameplay/Replay), che possono essere guardati online o salvati per essere visualizzati in una classifica locale.
+I primi 1000 punteggi a ogni difficoltà di una mappa di battuta forniscono [replay](/wiki/Gameplay/Replay), che possono essere guardati online o salvati per essere visualizzati in una classifica locale.
 
 ### Charts e Spotlights
 

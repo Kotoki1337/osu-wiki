@@ -1,12 +1,14 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 ---
 
 # Maintenance du wiki d'osu!
 
 *Voir également : [Guide de contribution au wiki d'osu!](/wiki/osu!_wiki/Contribution_guide)*
 
-Cet article décrit les aspects techniques ou administratifs du wiki d'osu!. Il couvre également les procédures de maintenance, qui sont nécessaires pour le garder à jour - peut-être pourrez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le channel `#osu-wiki` du [serveur Discord d'osu!](/wiki/Community/osu!_Discord_server).
+Cet article décrit les aspects techniques ou administratifs du wiki d'osu!. Il couvre également les procédures de maintenance, qui sont nécessaires pour le garder à jour - peut-être pourrez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le channel `#osu-wiki` du [serveur Discord d'osu!](/wiki/Community/Discord_servers#officielle).
 
 ## Administrateurs
 
@@ -132,7 +134,7 @@ Certaines fonctionnalités ne sont pas directement liées au site web d'osu!, ma
 
 *Note : le site web [osu-wiki status](https://osu.wiki/status/fr) affiche une liste de tous les articles nécessitant une maintenance, répartis par catégorie.*
 
-Le wiki s'appuie sur les contributions de la communauté d'osu!. Vous pouvez aider les mainteneurs et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si à un moment donné vous vous sentez bloqué, demandez de l'aide dans le channel `#osu-wiki` du [serveur Discord d'osu!](/wiki/Community/osu!_Discord_server).
+Le wiki s'appuie sur les contributions de la communauté d'osu!. Vous pouvez aider les mainteneurs et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si à un moment donné vous vous sentez bloqué, demandez de l'aide dans le channel `#osu-wiki` du [serveur Discord d'osu!](/wiki/Community/Discord_servers#officielle).
 
 ### Traductions
 
@@ -158,6 +160,6 @@ osu! est un environnement en constante évolution : la communauté créent de no
 
 ### Mises à jour
 
-*Pour l'étendue possible du travail, voir : [Liste des TODO existants (anglais)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Pour l'étendue possible du travail, voir : [Liste des TODO existants (anglais)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Les articles existants ont également besoin d'être entretenus. Si vous avez trouvé une erreur, s'il manque des détails, ou si vous voulez simplement réécrire/étendre l'article en fonction de la réalité, faites un pas en avant et faites du wiki d'osu! un meilleur endroit. Si le changement que vous envisagez est suffisamment important ou significatif, assurez-vous d'en discuter dans le channel `#osu-wiki`, ou [créer un issue de suivi](https://github.com/ppy/osu-wiki/issues/new).
